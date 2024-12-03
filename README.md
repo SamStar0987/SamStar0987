@@ -24,4 +24,6 @@ With relentless passion and unwavering dedication, I commit myself to achieving 
 ---
 [![](https://visitcount.itsvg.in/api?id=SamStar0987&icon=5&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
