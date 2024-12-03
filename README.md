@@ -12,6 +12,8 @@ With relentless passion and unwavering dedication, I commit myself to achieving 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamStar0987&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamStar0987&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+![snake gif](https://github.com/SamStar0987/SamStar0987/blob/output/github-snake-dark.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamStar0987&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -24,6 +26,6 @@ With relentless passion and unwavering dedication, I commit myself to achieving 
 ---
 [![](https://visitcount.itsvg.in/api?id=SamStar0987&icon=5&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/SamStar0987/SamStar0987/blob/output/github-snake-dark.svg)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
